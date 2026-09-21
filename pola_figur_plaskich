@@ -12,7 +12,7 @@
 
 # e = float(input())
 # f = float(input())
-# print (f"pole rabu = {e}*{f}:2 = {e*f/2}")
+# print (f"pole rombu = {e}*{f}:2 = {e*f/2}")
 
 a = float(input())
 h = float(input())
