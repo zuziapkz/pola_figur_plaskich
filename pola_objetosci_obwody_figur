@@ -113,6 +113,12 @@
 # h = float(input())
 # print (f"P trapezu = ({a}+{b})*h/2 = {(a+b)*h/2}")
 
+# a = float(input())
+# h = float(input())
+# print (f"P trojkata = {a}*{h}:2 = {a*h/2}")
+
+# a = float(input())
+# print (f"P trojkata rownobocznego = {a}**2*3**0.5:4 = {a**2*3**0.5/4}")
 
 # import math
 # PI = math.pi
@@ -126,3 +132,14 @@
 # e = float(input())
 # f = float(input())
 # print (f"P rombu = {e}*{f}:2 = {e*f/2}")
+
+# a = float(input())
+# print (f"h trojkata rownobocznego = {a}*3**0.5:2 = {a*3**0.5/2}")
+
+# a = float(input())
+# print (f"przekatna kwadratu = {a}*2**0.5 = {a*2**0.5}")
+
+a = float(input())
+b = float(input())
+c = (a**2 + b**2)**2
+print (f"{a}**2+{b}**2 = {c}")
